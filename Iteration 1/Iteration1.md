@@ -1,5 +1,5 @@
 
-** Step 1: Review Inputs **
+**Step 1: Review Inputs**
 
 ** Step 2: Establish Iteration Goal by Selecting Drivers **
 
