@@ -10,7 +10,7 @@
 #### Deliverables 
 
 1. [Assignment 2 - Use Cases, Quality Attributes, Constraints](https://github.com/SOFE3650F18/project-group-26/tree/master/Deliverable%201)
-2. Iterations of ADD process 
+2. Iterations of ADD process<br> 
  ... [Iteration 1](https://github.com/SOFE3650F18/project-group-26/tree/master/Iteration%201)
  ... [Iteration 2](https://github.com/SOFE3650F18/project-group-26/tree/master/Iteration%202)
  ... [Iteration 3](https://github.com/SOFE3650F18/project-group-26/tree/master/Iteration%203)
