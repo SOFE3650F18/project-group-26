@@ -9,7 +9,7 @@
 
 **Step 3: Choose One or More Elements of the System to Refine**
 
- The elements that will be refined in this iteration would be the bottom layered or the server and database side of the system. In general, the support of the functionality in this system requires the collaboration of components associated with modules that are located in the different layers
+
 
 **Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers**
 
