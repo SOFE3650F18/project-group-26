@@ -31,11 +31,24 @@
 | Services SS              | This layer interacts with the client side and opens up the server side for the client side to use|    
 | Business logic SS        | This layer performs logical operation based on the client side business layer|                            
 | Data SS                  | This layer is responsible for containing data and for returning data we asked for|                        
-| Cross- cutting SS        | "This layer access different modules across the SS in order to provide security logging and I/O files" |
+| Cross- cutting SS        | This layer access different modules across the SS in order to provide security logging and I/O files |
 | Service interface SS     | This module takes input from the client side and organizes it in the server side| 
 | Business modules SS      | This module implements operations |    
 | Business entities SS     | This module is made up of entities |           
 | DB access module         | This module is responsible for the storing of data and its relational information as well as protecting valuable data |
+
+| Element            | Responsibility                                                                        |
+|--------------------|---------------------------------------------------------------------------------------|
+| User Workstation   | The application of system where the user interacts with the system. Hosts the clients |
+| Application server | The server that hosts the application                                                 |
+| Database server    | The server that hosts the databases                                                   |
+| University server  | The server that hosts the university's data                                           |
+
+| Relationship                                     | Description                                 |
+|--------------------------------------------------|---------------------------------------------|
+| Between application server and database server   | Communication between each other using JDBC |
+| Between application server and university server | Communication between each other using JSON |
+
 
 **Step 7: Perform Analysis of Current Design and Review Iteration**
 
