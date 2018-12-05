@@ -8,6 +8,10 @@ In the second iteration, besides CRN-1 (Create and define the overall system), w
 
 **Step 3: Choose one or more elements of the sytem to refine**
 
+
+  The elements that will be refined in this iteration would be the bottom layered or the server and database side of the system. In general, the support of the functionality in this system requires the collaboration of components associated with modules that are located in the different layers
+  
+  
 **Step 4: Choose one or more design concept that satisfy the selected drivers**
 
 | Design Decisions and Location                               | Rationale and Assumptions                                                                                                                                                                                                                                                                                                       |  
@@ -17,6 +21,16 @@ In the second iteration, besides CRN-1 (Create and define the overall system), w
 | Decompose Domain Objects into layered components            | Domain objects represent complete sets of functionality, but this functionality is supported by finer-grained elements located within the layers. The “components” in this pattern are what are referred to as modules                                                                                                          |
 
 **Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces**
+
+| Design and decision location                                                                                 | Rationale and assumption  |
+|-----------------------------------------------|-------------------|
+| Create only an initial domain model          | The entities that participate in the primary use cases need to be identify and modeled but only an initial domain model is create in order to accelerate the design phase |      
+| Map the system use cases to domain objects               | Analyzing the system's use case allows us to identify the domain objects. To address the CRN-3 we identify the domain objects shown in the deliverable 1.         |
+| Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface | This technique ensures that modules that support all of the functionalities are identified. The architect will perform this task for the primary use cases mentioned in step 2. After establishing the set of modules the architect realizes that the need to test these modules also satisfy the concern: CRN-4- Most modules should be tested |
+| Connect components associated with modules| This framework uses an inversion of control approach that allows different aspects to be supported and the modules to be tested  The framework also allows for accuracy checks and safety checks between modules and components (CRN-4)                 
+| Associate frameworks with a module in the data layer     | ORM mapping is encapsulated in the modules that are contained in the data layer |
+
+
 
 **Step 6: Sketch views and record design decisions**
 
