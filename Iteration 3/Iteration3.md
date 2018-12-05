@@ -1,6 +1,10 @@
 **Step 2: Establish iteration goal by selecting drivers**
 
+  For this iteration, we are focusing on QA-1: availability- Notice of system maintenance, ease of access to the system. Problem with certain programming languages or operating system due to precise programming. The management system will enable for usage and enables other platform to use
+
 **Step 3: Choose one or more elements of the sytem to refine**
+
+  For this availability scenario, the elements that are being refined would be the client side and the server side mentioned in the first iteration
 
 **Step 4: Choose one or more design concept that satisfy the selected drivers**
 
