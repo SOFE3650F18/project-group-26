@@ -8,6 +8,12 @@
 
 **Step 4: Choose one or more design concept that satisfy the selected drivers**
 
+| Design Decisions and location                                            | Rationale and Assumption                                                                                                                     |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Introduce the active redundancy tatic by replicating the database server | By replicating the critical elements, the system can withstand the failure of one of the replicated elements without affecting functionality |
+| Introducing a running time                                               | By continuously running server side at a minimal and accessing it from the client side when called                                           |
+| Alternative versions/platforms                                           | Web application available for different types of platforms (MacOS, Linux, windows, android, IOS)(QA-1)                                       |
+
 **Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces**
 
 | Design decisions and location                                                                                               | Rationale                                                                                                                                                                                                                                                        |
