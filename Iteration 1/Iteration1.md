@@ -46,6 +46,8 @@
 | Database server    | The server that hosts the databases                                                   |
 | University server  | The server that hosts the university's data                                           |
 
+![alt Initial deployment diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/Initial%20Deployment%20Diagram%20for%20CMS.png)
+
 | Relationship                                     | Description                                 |
 |--------------------------------------------------|---------------------------------------------|
 | Between application server and database server   | Communication between each other using JDBC |
