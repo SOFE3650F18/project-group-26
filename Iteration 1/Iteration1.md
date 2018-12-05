@@ -26,6 +26,14 @@
 
 **Step 5: Instantiate Architectural Elements, Allocated Responsibilities and Define Interfaces**
 
+| Design Decision and Location                                               	| Rationale                                                                                                                                     	|
+|----------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------	|
+| Create a server module dedicated to accessing the database                 	| The service agent component is abstracted to access server information as well as information stored within the database(UC-4, CON-5).        	|
+| Create a client module dedicated to communicating with server              	| The client module should communicate with the server to retrieve information as well as update, and store information                         	|
+| Create a client security module dedicated to processing client information 	| The security module on the client side should display the user information in relation to the role of the user (UC-1, UC-3).                  	|
+| Create a server security module to process server information              	| The security module on the server side should process requests and serve the appropriate response based on the users input(QA-4, CON-5).      	|
+| Create UI modules to interface with the user                               	| The UI modules will provide the user with rich user interfaces, to allow the user to access the systems content in an friendly manner(CON-3). 	|
+
 **Step 6: Sketch Views and Record Design Decisions**
 
 ![alt Three layered architecture](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/three-layered%20model.png)
