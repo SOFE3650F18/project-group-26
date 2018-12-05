@@ -7,8 +7,7 @@
 | Quality Attribute Scenarios     	| Represented in Table 2 below                                                                                                                                                                                                                                                                                                                             	|
 | Constraints                     	| All of the constraints previously outlined are included as drivers                                                                                                                                                                                                                                                                                       	|
 | Architectural Concerns          	| All of the architectural concerns previously outlined are included as drivers                                                                                                                                                                                                                                                                            	|
-
-<br>*Table 1: Inputs*
+<br>*Table 1: Inputs*<br><br>
 
 
 | Scenario ID 	| Importance to the Customer 	| Difficulty of Implementation According to the Architect 	|
@@ -18,5 +17,4 @@
 | QA-3        	| High                       	| High                                                    	|
 | QA-4        	| Medium                     	| Low                                                     	|
 | QA-5        	| Medium                     	| Medium                                                  	|
-
 <br>*Table 2: Quality Attributes derived for table 1*
