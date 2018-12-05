@@ -4,9 +4,9 @@
 | Use Case | Name                                | Requirements                              | Explanation                                                                                                        |
 |----------|-------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1        | Account system                      | Roles                                     | Allows the system to handle request based upon the users role                                                      |
-| 2        | Display Users information           | 1-7, 19, 20                               | Displays information on the web application (UI)                                                                   |
-| 3        | Allows for system modifiability     | 8, 21-23, 48-50, 68, 70-72, 74-77, 79, 82 | Allows for the systems program to change accordingly based changes to the system variables by differing roles      |
-| 4        | Students files/ record              | 9-18, 53                                  | Records holding the students progress in school and their activities, including school information such as courses |
+| 2        | Display User's information           | 1-7, 19, 20                               | Displays information on the web application (UI)                                                                   |
+| 3        | Allows for system modifiability     | 8, 21-23, 48-50, 68, 70-72, 74-77, 79, 82 | Allows for the system's program to change accordingly based changes to the system variables by differing roles      |
+| 4        | Student's files/ record              | 9-18, 53                                  | Records holding the students progress in school and their activities, including school information such as courses |
 | 5        | Grades/ marks inputted              | 26, 73, 80, 81                            | Records the students marks given the lecturer                                                                      |
 | 6        | Calculations of grades              | 54, 110-116                               | Calculations of lump sum of the students marks                                                                     |
 | 7        | Allows the admin to bypass policies | 52                                        | Enables admins to work against policies setted                                                                     |
@@ -15,9 +15,17 @@
 | 10       | Student evaluation                  | 59, 117                                   | Allows for unbiased communication                                                                                  |
 | 11       | User registrations                  | 51, 78                                    | Allows system to add more data into its database                                                                   |
 | 12       | Security                            | 66                                        | Protects entire system from malware or viruses, and protects from unauthorized user access                         |
-| 13       | Announcement/notice                 | 24, 25, 67, 69                            | Displays systems notifications, lecturers notifications, admins notifications                                      |
+| 13       | Announcement/notice                 | 24, 25, 67, 69                            | Displays' system's notifications, lecturers notifications, admin's notifications                                      |
 
 # Quality Attributes
+
+| Quality Attributes | Scenario                                                                                                  | Associated Use case |
+|--------------------|-----------------------------------------------------------------------------------------------------------|---------------------|
+| 1- Availability    | Notice of system maintenance, ease of access to the system                                                | All                 |
+| 2- Modifiability   | Allows Users to alter/ change the system easily and allows the system to easily be updated (Backup)       | 2, 3, 4, 5, 6, 7    |
+| 3- Performance     | Response time and allows for multiple events to occur at the same time                                    | All                 |
+| 4- Security        | Provides confidential information allowing only certain stakeholders to view, change, add or remove       | All                 |
+| 5- Usability       | Allows anyone and/or everyone to access with ease and provides users with an easy way of using the system | All                 |
 
 # Constraints
 
