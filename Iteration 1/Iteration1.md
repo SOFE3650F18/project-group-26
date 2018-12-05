@@ -11,7 +11,7 @@
 
 ![alt Context Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/ContextDiagram.png)   
 
-*Figure: Context Diagram*
+*Figure 1.1: Context Diagram*
 
 **Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers**
 
@@ -37,6 +37,7 @@
 **Step 6: Sketch Views and Record Design Decisions**
 
 ![alt Three layered architecture](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/three-layered%20model.png)
+*Figure 1.2: The three layered architecture visually showing the relationship between the client side and the server side*
 
 | Element                  | Responsibility |                                                                                           
 |--------------------|----------------------|
@@ -69,6 +70,7 @@
 | Between application server and university server | Communication between each other using JSON |
 
 ![alt Initial deployment diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/Initial%20Deployment%20Diagram%20for%20CMS.png)
+*Figure 1.3: The initial deployment diagram*
 
 **Step 7: Perform Analysis of Current Design and Review Iteration**
 
