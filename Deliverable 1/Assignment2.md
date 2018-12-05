@@ -31,5 +31,12 @@
 
 # Concerns
 
+| ID    | Concern                                                       |
+|-------|---------------------------------------------------------------|
+| CRN-1 | Creation of initial system structure                          |
+| CRN-2 | Work allocation among members of development team             |
+| CRN-3 | Utilize knowledge of Web technologies to implement the system |
+| CRN-4 | Modules should be tested                                      |
+
 # Use case Diagram
 
