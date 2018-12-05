@@ -23,5 +23,7 @@
 
 **Step 6: Sketch Views and Record Design Decisions**
 
+![alt Context Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/three-layered%20model.png)   
+
 **Step 7: Perform Analysis of Current Design and Review Iteration**
 
