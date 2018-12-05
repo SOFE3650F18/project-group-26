@@ -23,4 +23,25 @@ The following deployment diagram shows the implementation of replicated servers 
 
 **Step 7: Perform analysis of current design and review iteration goal and achienvement of design purpose**
 
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made during the Iteration                                                                                                                      |
+|---------------|---------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|               |                     | UC-1                 | No relevant decisions made                                                                                                                                      |
+|               |                     | UC-2                 | No relevant decisions made                                                                                                                                      |
+|               |                     | UC-4                 | Records and files will be replicated among multiple servers to address issues of data loss server errors                                                        |
+|               | UC-7                |                      | No relevant decisions made                                                                                                                                      |
+|               |                     | UC-8                 | Visualization of the use case; implementation of its response and request interaction between the backup server and the web server                              |
+|               |                     | QA-1                 | Implementation of new technologies to allow the increase in availability of services through the use of load balancing, active redundancy and backups           |
+|               | QA-2                |                      | No relevant decisions made                                                                                                                                      |
+|               | QA-3                |                      | The implementation of load balancing and replicated servers will increase performance by distributing traffic among multiple servers to relieve the server load |
+|               |                     | QA-4                 | No relevant decisions made                                                                                                                                      |
+|               |                     | QA-5                 | Increase in usability through implementation of backup servers as well as load balancing to reduce signs of stress on the server by the user                    |
+|               | CON-1               |                      | No relevant decisions made                                                                                                                                      |
+|               |                     | CON-2                | No relevant decisions made                                                                                                                                      |
+|               |                     | CON-3                | No relevant decisions made                                                                                                                                      |
+|               |                     | CON-5                | The server will be able to synchronize with backup servers in the case of major issues                                                                          |
+|               |                     | CON-6                | Introduced a variety of software platforms and web clients, the server will be able to adapt differing functionality                                            |
+|               | CON-7               |                      | No relevant decisions were made                                                                                                                                 |
+|               |                     | CRN-1                | Additional technologies and architectures were selected to advance the systems overall structure                                                                |
+|               | CRN-3               |                      | Implementation of a backup server in order to safely achieve new technology (QA-1)                                                                              |
+|               |                     | CRN-4                | No relevant decisions were made                                                                                                                                 |
                             
