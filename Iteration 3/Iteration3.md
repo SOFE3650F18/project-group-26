@@ -1,3 +1,7 @@
+**Step 1: Review Inputs**
+
+ [Add Step 1: Review Inputs](https://github.com/SOFE3650F18/project-group-26/blob/master/ADD/ADD%20Step%201:%20%20Review%20Inputs.md)
+
 **Step 2: Establish iteration goal by selecting drivers**
 
   For this iteration, we are focusing on QA-1: availability- Notice of system maintenance, ease of access to the system. Problem with certain programming languages or operating system due to precise programming. The management system will enable for usage and enables other platform to use
