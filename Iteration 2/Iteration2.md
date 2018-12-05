@@ -1,5 +1,11 @@
 **Step 2: Establish iteration goal by selecting drivers**
 
+
+In the second iteration, besides CRN-1 (Create and define the overall system), we are considering the system’s primary use cases:
+ * UC-1: User system with specified roles
+ * UC-4: Synchronize User information with university database information
+
+
 **Step 3: Choose one or more elements of the sytem to refine**
 
 **Step 4: Choose one or more design concept that satisfy the selected drivers**
