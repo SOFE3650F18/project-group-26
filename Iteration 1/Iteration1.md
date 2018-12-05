@@ -52,3 +52,27 @@
 
 **Step 7: Perform Analysis of Current Design and Review Iteration**
 
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made during the Iteration
+|---------------|---------------------|----------------------|---------------------------------|
+|               | UC-1                |                      | Implementation of User system and its functionality as well as its reference for other attributes     |
+|               | UC-2                |                      | "Information display will be implemented through views in the users web client with the use of web technologies such as HTML CSS and JavaScript(AngularJS)" |
+| UC-3          |                     |                      | N/A            |
+|               | UC-4                |                      | Component is explained as being able to access server information stored in a database  |
+| UC-5          |                     |                      | N/A  |
+| UC-11         |                     |                      | N/A  |
+|               | QA-1                |                      | Mentioned the availability of the system and its portability|
+| QA-2          |                     |                      | N/A   |
+| QA-3          |                     |                      | N/A   |   
+|               | QA-4                |                      | Identified the uses of security through its protocol and its uses in other components  |
+|               | QA-5                |                      | Identified the wide variety of usage the system has |
+| CON-1         |                     |                      | N/A |
+|               | CON-2               |                      | Data storage and retrieval will be implemented through the use of Database Management System (DBMS)  |
+|               |                     | CON-3                | Mentioned AngularJS as being a dynamic framework for web application |
+| CON-4         |                     |                      | N/A |
+|               | CON-5               |                      | Described the compatibility between databases and the relationship between them   |
+|               |                     | CON-6                | The system will be implemented through a Web application which will allow availability on multiple platforms through their native Web browser. |
+| CON-7         |                     |                      | N/A  |
+| CON-8         |                     |                      | N/A  |
+|               | CRN-1               |                      | Technologies considered to be implemented reflect the development teams knowledge and benefit the underlying structure of the system    |
+| CRN-2         |                     |                      | N/A   |
+|               | CRN-3               |                      | "Based on the references above with a dynamic framework allowing users to utilize technology" |
