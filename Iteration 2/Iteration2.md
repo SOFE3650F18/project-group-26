@@ -50,7 +50,7 @@ In the second iteration, besides CRN-1 (Create and define the overall system), w
 
 *Figure 2.3: Modules that support primary use cases*
 
-Use Case 1: Account System
+**Use Case 1: Account System**<br>
 The next diagram is a sequence diagram shows how the user will access the system based on their role within the system. Once the user launches the browser, they will be prompted for account credentials which they will use to login into the system. The account they logged into will tied to a specific role in the system which will define their permissions and access to the system.
 
 
@@ -58,7 +58,7 @@ The next diagram is a sequence diagram shows how the user will access the system
 
 *Figure 2.4:  Sequence Diagram for UC-1*
 
-Use Case 4: Record System
+**Use Case 4: Record System**<br>
 The next diagram is a sequence diagram that shows how the user will access system records within the course management. Once the users role is determined from the steps in the previous diagram, the user will be able to request information from the server. The server will respond based on the accounts role and the information they request. The user will only be prompted with available information for their specific role.
 
 
