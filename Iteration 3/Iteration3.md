@@ -33,7 +33,7 @@ The following deployment diagram shows the implementation of replicated servers 
 
 ![alt Sequence Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%203/UC-8%20Sequence%20Diagram.png)
 
-*Figure: Sequence diagram visually showing the interaction between a backup server and the main server*
+*Figure: Sequence diagram visually showing the interaction between a backup server and the main server (UC-8)*
 
 **Step 7: Perform analysis of current design and review iteration goal and achienvement of design purpose**
 
