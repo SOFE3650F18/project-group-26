@@ -16,7 +16,7 @@ In the second iteration, besides CRN-1 (Create and define the overall system), w
 | Identify Domain Objects that map to functional requirements | Each distinct functional element of the application needs to be encapsulated in a self-contained building block - a domain object.  Directly composing layers increases the risk of not considering a requirement                                                                                                               |
 | Decompose Domain Objects into layered components            | Domain objects represent complete sets of functionality, but this functionality is supported by finer-grained elements located within the layers. The “components” in this pattern are what are referred to as modules                                                                                                          |
 
-**Step 5: Instantiate architectural elemtns, allocate responsibilities, and define interfaces**
+**Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces**
 
 **Step 6: Sketch views and record design decisions**
 
