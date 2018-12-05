@@ -19,6 +19,8 @@
 
 **Step 6: Sketch Views and Record Design Decisions**
 
+![alt Three layered architecture](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%201/three-layered%20model.png)
+
 | Element                  | Responsibility |                                                                                           
 |--------------------|----------------------|
 | Presentation CS          | This layer controls the flow and the user input (User interface)  |                               
