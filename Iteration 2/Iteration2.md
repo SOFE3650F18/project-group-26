@@ -52,6 +52,20 @@ In the second iteration, besides CRN-1 (Create and define the overall system), w
 
 *Figure 2.3: Modules that support primary use cases*
 
+The following table summarizes the elements in Figure 2.3:
+
+| Element                   	| Responsibility                                                                                              	|
+|---------------------------	|-------------------------------------------------------------------------------------------------------------	|
+| RequestManager            	| Gets users request from the web client via the user interface                                               	|
+| RequestService            	| The users request is handled by the request service on the server which connects the client with the server 	|
+| ProcessRequest            	| Server processes the users request                                                                          	|
+| RequestHandler            	| Handles the request through business logic of server                                                        	|
+| DatabaseConnector         	| Responsible for connection between server and database                                                      	|
+| DatabaseMapper            	| Map persistent data stored in database to operations needed to perform users request                        	|
+| UniversitySystemConnector 	| Responsible for connection between server and other university systems                                      	|
+| UniversitySystemMapper    	| Map data operations from secondary university systems to perform users request    
+
+
 **Use Case 1: Account System**<br>
 The next diagram is a sequence diagram shows how the user will access the system based on their role within the system. Once the user launches the browser, they will be prompted for account credentials which they will use to login into the system. The account they logged into will tied to a specific role in the system which will define their permissions and access to the system.
 
