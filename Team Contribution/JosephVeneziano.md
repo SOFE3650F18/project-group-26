@@ -14,7 +14,7 @@
  * 3.5 to 4.5 = Strong
  * 2.5 to 3.5 = Moderate
  * 1.5 to 2.5 = Bare Minimum
- * 1.0 to 1.5 = Unsatisfactory
+ * 1.0 to 1.5 = Unsatisfactory  
  
  <br> 
 ##### Other Comments:
