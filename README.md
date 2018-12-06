@@ -15,5 +15,5 @@
     - [Iteration 2](https://github.com/SOFE3650F18/project-group-26/tree/master/Iteration%202)<br> 
     - [Iteration 3](https://github.com/SOFE3650F18/project-group-26/tree/master/Iteration%203)<br> 
 
-**Prepared By: Dr. Ramiro Liscano**
+**Prepared By: Dr. Ramiro Liscano**<br>
 **Project Due: December 5, 2018**
