@@ -29,6 +29,18 @@
 
 # Constraints
 
+
+| Constraints | Explaination                                                              |
+|-------------|---------------------------------------------------------------------------|
+| CON-1       | System must be able to be modified                                        |
+| CON-2       | System must be able to deliver and store precise information              |
+| CON-3       | System must be user friendly                                              |
+| CON-4       | System must satisfy certain policies given                                |
+| CON-5       | System must be able to safely synchronize with other databases            |
+| CON-6       | System must be able to adapt to multiple systems                          |
+| CON-7       | System must be able to be altered/ changed according to the administrator |
+| CON-8       | System must contain limits and boundaries accordingly                     |
+
 # Concerns
 
 | ID    | Concern                                                       |
