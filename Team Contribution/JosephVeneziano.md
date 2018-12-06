@@ -16,5 +16,4 @@
  * 1.5 to 2.5 = Bare Minimum
  * 1.0 to 1.5 = Unsatisfactory  
  
- <br> 
 ##### Other Comments:
