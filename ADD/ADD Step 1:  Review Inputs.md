@@ -20,3 +20,5 @@
 | QA-5        	| Medium                     	| Medium                                                  	|
 
 *Table 2: Quality Attributes derived for table 1*
+
+[Use Cases, Quality Attributes, Constraints](https://github.com/SOFE3650F18/project-group-26/blob/master/Deliverable%201/Assignment2.md)
