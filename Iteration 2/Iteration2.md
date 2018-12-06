@@ -67,7 +67,7 @@ The following table summarizes the elements in Figure 2.3:
 
 
 **Use Case 1: Account System**<br>
-The next diagram is a sequence diagram shows how the user will access the system based on their role within the system. Once the user launches the browser, they will be prompted for account credentials which they will use to login into the system. The account they logged into will tied to a specific role in the system which will define their permissions and access to the system.
+The next diagram is a sequence diagram which shows how the user will access the system based on their role within the system. Once the user launches the browser, they will be prompted for account credentials which they will use to login into the system. The account they logged into will tied to a specific role in the system which will define their permissions and access to the system.
 
 
 ![alt Use Case 1 Sequence Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%202/UC-1.PNG)   
