@@ -9,7 +9,7 @@
 | 4        | Student's files/ record              | 9-18, 53                                  | Records holding the students progress in school and their activities, including school information such as courses |
 | 5        | Grades/ marks inputted              | 26, 73, 80, 81                            | Records the students marks given by the lecturer                                                                      |
 | 6        | Calculations of grades              | 54, 110-116                               | Calculations of the students marks                                                                     |
-| 7        | Allows the admin to bypass policies | 52                                        | Enables admins to work against policies setted                                                                     |
+| 7        | Allows the admin to bypass policies | 52                                        | Enables admins to work on and create system policies                                                                     |
 | 8        | Software backup                     | 88, 89                                    | Allows for the program to backup in case of emergency                                                              |
 | 9        | System constraints                  | 55-58, 60-65, 90, 91                      | Stops system from overloading and/or crashing                                                                      |
 | 10       | Student evaluation                  | 59, 117                                   | Allows for unbiased communication                                                                                  |
