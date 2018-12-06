@@ -7,8 +7,8 @@
 | 2        | Display User's information           | 1-7, 19, 20                               | Displays information on the web application (UI)                                                                   |
 | 3        | Allows for system modifiability     | 8, 21-23, 48-50, 68, 70-72, 74-77, 79, 82 | Allows for the system's program to change accordingly based changes to the system variables by differing roles      |
 | 4        | Student's files/ record              | 9-18, 53                                  | Records holding the students progress in school and their activities, including school information such as courses |
-| 5        | Grades/ marks inputted              | 26, 73, 80, 81                            | Records the students marks given the lecturer                                                                      |
-| 6        | Calculations of grades              | 54, 110-116                               | Calculations of lump sum of the students marks                                                                     |
+| 5        | Grades/ marks inputted              | 26, 73, 80, 81                            | Records the students marks given by the lecturer                                                                      |
+| 6        | Calculations of grades              | 54, 110-116                               | Calculations of the students marks                                                                     |
 | 7        | Allows the admin to bypass policies | 52                                        | Enables admins to work against policies setted                                                                     |
 | 8        | Software backup                     | 88, 89                                    | Allows for the program to backup in case of emergency                                                              |
 | 9        | System constraints                  | 55-58, 60-65, 90, 91                      | Stops system from overloading and/or crashing                                                                      |
