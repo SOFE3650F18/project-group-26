@@ -52,3 +52,4 @@
 
 # Use case Diagram
 
+![Use Case Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Deliverable%201/Use%20Case%20Diagram.PNG)
