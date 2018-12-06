@@ -9,7 +9,7 @@
 | Team's Ethical Standards                                      	|        	|         	|
 | Teams Focus                                                   	|        	|         	|
 
-**Ratings:** 
+##### Ratings: 
  * 4.5 to 5.0 = Outstanding
  * 3.5 to 4.5 = Strong
  * 2.5 to 3.5 = Moderate
@@ -17,4 +17,4 @@
  * 1.0 to 1.5 = Unsatisfactory
  
  <br> 
- **Other Comments: **
+##### Other Comments:
