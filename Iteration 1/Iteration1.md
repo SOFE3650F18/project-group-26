@@ -80,7 +80,7 @@
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made during the Iteration
 |---------------|---------------------|----------------------|---------------------------------|
 |               | UC-1                |                      | Implementation of User system and its functionality as well as its reference for other attributes     |
-|               | UC-2                |                      | "Information display will be implemented through views in the users web client with the use of web technologies such as HTML CSS and JavaScript(AngularJS)" |
+|               | UC-2                |                      | Information display will be implemented through views in the users web client with the use of web technologies such as HTML CSS and JavaScript(AngularJS) |
 | UC-3          |                     |                      | N/A            |
 |               | UC-4                |                      | Component is explained as being able to access server information stored in a database  |
 | UC-5          |                     |                      | N/A  |
@@ -100,4 +100,4 @@
 | CON-8         |                     |                      | N/A  |
 |               | CRN-1               |                      | Technologies considered to be implemented reflect the development teams knowledge and benefit the underlying structure of the system    |
 | CRN-2         |                     |                      | N/A   |
-|               | CRN-3               |                      | "Based on the references above with a dynamic framework allowing users to utilize technology" |
+|               | CRN-3               |                      | Based on the references above with a dynamic framework allowing users to utilize technology |
