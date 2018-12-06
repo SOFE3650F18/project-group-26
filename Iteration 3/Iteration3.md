@@ -31,7 +31,7 @@
 
 **Step 6: Sketch views and record design decisions**
 
-The following deployment diagram shows the implementation of replicated servers with active redundancy and load balancing
+The following deployment diagram shows the implementation of replicated servers with active redundancy and load balancing within the system. This will allow the system balance the load on the servers by redirecting traffic across multiple servers to relieve stress on the system as well as allow for backup on system faults.
 
 ![alt Deployment Diagram](https://github.com/SOFE3650F18/project-group-26/blob/master/Iteration%203/deployment.PNG)   
 
